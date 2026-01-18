@@ -1,0 +1,12 @@
+-s 3CL_OAS1_pep.pdb
+-ex1
+-ex2aro
+-ex2
+-ex1aro
+-database $ROSETTA_DB_Path
+-scorefile prepack.score.sc
+-flexpep_score_only
+-nstruct 1
+-out:path:pdb $OAS1_output
+-out:path:score $OAS1_output
+-use_truncated_termini

@@ -1,0 +1,29 @@
+-s input/3CL_OAS1_ppk.pdb	# prepacked structure as input
+-lowres_abinitio                        # Low-resolution ab-initio folding and docking
+-pep_refine                             # Refine low resolution models produced using -lowre_abinitio flag 
+-flexpep_score_only                     # Read in a complex, score it and output interface statistics
+-ex1               			# Add extra side-chain rotamers
+-ex2aro                                 # Add extra side-chain rotamers
+-ex1aro
+-ex2
+-use_truncated_termini			# Will not add extra OXT/Hs at termini if not in input structure
+
+#use_input_sc                           # Include rotamer conformations from the input structure during side-chain repacking. 
+-frag3 input/frags/frags.3mers.offset   # 3mer / 5mer / 9mer fragments files for ab-initio peptide docking.
+-flexPepDocking:frag5 input/frags/frags.5mers.offset
+-flexPepDocking:frag5_weight 0.25
+
+
+-constraints:cst_weight 2
+-constraints:cst_fa_file input/constraints
+-constraints:cst_file input/constraints
+-constraints:cst_fa_weight 2
+-score:weights ref2015_cst
+
+-out:path:pdb output/
+-out:file:silent output/OAS1_pep.out
+-out:file:scorefile output/OAS1_pep.sc
+-nstruct 50000				# Number of models to create in the simulation
+
+-flexPepDocking:receptor_chain A
+-flexPepDocking:peptide_chain D

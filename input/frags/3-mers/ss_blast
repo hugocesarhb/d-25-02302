@@ -1,0 +1,325 @@
+BLASTP 2.2.17 [Aug-26-2007]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics:
+Schaffer, Alejandro A., L. Aravind, Thomas L. Madden,
+Sergei Shavirin, John L. Spouge, Yuri I. Wolf,  
+Eugene V. Koonin, and Stephen F. Altschul (2001), 
+"Improving the accuracy of PSI-BLAST protein database searches with 
+composition-based statistics and other refinements",  Nucleic Acids Res. 29:2994-3005.
+
+Query= OAS1
+         (8 letters)
+
+Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_pfi
+lt 
+           229,636,095 sequences; 83,676,080,993 total letters
+
+Searching..................................................done
+
+
+
+ ***** No hits found ******
+
+Searching..................................................done
+
+
+
+ ***** No hits found ******
+
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt
+    Posted date:  May 31, 2020  8:33 AM
+  Number of letters in database: 480,952,075
+  Number of sequences in database:  1,463,059
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.01
+    Posted date:  May 31, 2020  8:35 AM
+  Number of letters in database: 842,306,165
+  Number of sequences in database:  2,530,855
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.02
+    Posted date:  May 31, 2020  8:37 AM
+  Number of letters in database: 835,610,259
+  Number of sequences in database:  2,542,862
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.03
+    Posted date:  May 31, 2020  8:40 AM
+  Number of letters in database: 1,100,017,150
+  Number of sequences in database:  3,191,212
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.04
+    Posted date:  May 31, 2020  8:42 AM
+  Number of letters in database: 1,063,977,942
+  Number of sequences in database:  2,734,082
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.05
+    Posted date:  May 31, 2020  8:47 AM
+  Number of letters in database: 2,499,999,893
+  Number of sequences in database:  6,988,897
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.06
+    Posted date:  May 31, 2020  8:53 AM
+  Number of letters in database: 2,499,998,476
+  Number of sequences in database:  6,718,156
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.07
+    Posted date:  May 31, 2020  8:58 AM
+  Number of letters in database: 2,465,692,699
+  Number of sequences in database:  6,849,184
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.08
+    Posted date:  May 31, 2020  9:03 AM
+  Number of letters in database: 2,499,999,986
+  Number of sequences in database:  7,060,380
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.09
+    Posted date:  May 31, 2020  9:09 AM
+  Number of letters in database: 2,499,999,843
+  Number of sequences in database:  7,078,825
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.10
+    Posted date:  May 31, 2020  9:13 AM
+  Number of letters in database: 2,166,737,595
+  Number of sequences in database:  6,016,688
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.11
+    Posted date:  May 31, 2020  9:18 AM
+  Number of letters in database: 1,700,639,374
+  Number of sequences in database:  4,802,570
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.12
+    Posted date:  May 31, 2020  9:19 AM
+  Number of letters in database: 282,926,317
+  Number of sequences in database:  816,312
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.13
+    Posted date:  May 31, 2020  9:24 AM
+  Number of letters in database: 2,499,999,335
+  Number of sequences in database:  6,872,339
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.14
+    Posted date:  May 31, 2020  9:29 AM
+  Number of letters in database: 2,499,999,323
+  Number of sequences in database:  7,017,710
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.15
+    Posted date:  May 31, 2020  9:34 AM
+  Number of letters in database: 2,499,999,892
+  Number of sequences in database:  6,596,316
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.16
+    Posted date:  May 31, 2020  9:37 AM
+  Number of letters in database: 1,103,707,806
+  Number of sequences in database:  3,135,686
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.17
+    Posted date:  May 31, 2020  9:42 AM
+  Number of letters in database: 2,499,999,760
+  Number of sequences in database:  6,541,314
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.18
+    Posted date:  May 31, 2020  9:46 AM
+  Number of letters in database: 1,868,007,284
+  Number of sequences in database:  5,059,951
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.19
+    Posted date:  May 31, 2020  9:48 AM
+  Number of letters in database: 406,714,718
+  Number of sequences in database:  1,061,220
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.20
+    Posted date:  May 31, 2020  9:52 AM
+  Number of letters in database: 1,993,431,478
+  Number of sequences in database:  5,727,738
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.21
+    Posted date:  May 31, 2020  9:57 AM
+  Number of letters in database: 2,499,999,948
+  Number of sequences in database:  6,502,779
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.22
+    Posted date:  May 31, 2020 10:02 AM
+  Number of letters in database: 2,499,999,980
+  Number of sequences in database:  6,937,281
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.23
+    Posted date:  May 31, 2020 10:07 AM
+  Number of letters in database: 2,238,006,911
+  Number of sequences in database:  5,927,169
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.24
+    Posted date:  May 31, 2020 10:10 AM
+  Number of letters in database: 1,292,228,292
+  Number of sequences in database:  3,460,298
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.25
+    Posted date:  May 31, 2020 10:15 AM
+  Number of letters in database: 2,499,999,806
+  Number of sequences in database:  6,875,891
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.26
+    Posted date:  May 31, 2020 10:20 AM
+  Number of letters in database: 2,014,537,455
+  Number of sequences in database:  5,127,848
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.27
+    Posted date:  May 31, 2020 10:25 AM
+  Number of letters in database: 2,452,051,347
+  Number of sequences in database:  6,314,217
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.28
+    Posted date:  May 31, 2020 10:30 AM
+  Number of letters in database: 2,339,979,835
+  Number of sequences in database:  5,998,030
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.29
+    Posted date:  May 31, 2020 10:35 AM
+  Number of letters in database: 2,499,999,758
+  Number of sequences in database:  7,055,334
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.30
+    Posted date:  May 31, 2020 10:40 AM
+  Number of letters in database: 2,499,999,797
+  Number of sequences in database:  7,033,449
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.31
+    Posted date:  May 31, 2020 10:45 AM
+  Number of letters in database: 2,174,929,350
+  Number of sequences in database:  5,914,199
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.32
+    Posted date:  May 31, 2020 10:50 AM
+  Number of letters in database: 2,499,999,588
+  Number of sequences in database:  6,891,572
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.33
+    Posted date:  May 31, 2020 10:55 AM
+  Number of letters in database: 1,890,566,924
+  Number of sequences in database:  5,090,096
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.34
+    Posted date:  May 31, 2020 11:00 AM
+  Number of letters in database: 2,499,999,998
+  Number of sequences in database:  6,854,528
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.35
+    Posted date:  May 31, 2020 11:04 AM
+  Number of letters in database: 1,838,046,536
+  Number of sequences in database:  4,955,197
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.36
+    Posted date:  May 31, 2020 11:09 AM
+  Number of letters in database: 2,499,999,867
+  Number of sequences in database:  7,009,897
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.37
+    Posted date:  May 31, 2020 11:14 AM
+  Number of letters in database: 2,499,999,547
+  Number of sequences in database:  6,693,113
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.38
+    Posted date:  May 31, 2020 11:19 AM
+  Number of letters in database: 2,499,999,986
+  Number of sequences in database:  6,766,997
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.39
+    Posted date:  May 31, 2020 11:25 AM
+  Number of letters in database: 2,499,999,712
+  Number of sequences in database:  7,191,679
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.40
+    Posted date:  May 31, 2020 11:29 AM
+  Number of letters in database: 1,690,966,444
+  Number of sequences in database:  4,760,410
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.41
+    Posted date:  May 31, 2020 11:32 AM
+  Number of letters in database: 1,399,277,376
+  Number of sequences in database:  3,969,245
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr_p
+  filt.42
+    Posted date:  May 31, 2020 11:34 AM
+  Number of letters in database: 534,775,166
+  Number of sequences in database:  1,501,510
+  
+Lambda     K      H
+   0.284   0.0876    0.183 
+
+Lambda     K      H
+   0.267   0.0291    0.140 
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Hits to DB: 451,317,359
+Number of Sequences: 229636095
+Number of extensions: 219860
+Number of successful extensions: 0
+Number of sequences better than 10.0: 0
+Number of HSP's better than 10.0 without gapping: 0
+Number of HSP's successfully gapped in prelim test: 0
+Number of HSP's that attempted gapping in prelim test: 0
+Number of HSP's gapped (non-prelim): 0
+length of query: 8
+length of database: 83,676,080,993
+effective HSP length: 0
+effective length of query: 8
+effective length of database: 83,676,080,993
+effective search space: 669408647944
+effective search space used: 669408647944
+T: 11
+A: 40
+X1: 15 ( 6.2 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 45 (22.0 bits)
+S2: 81 (36.3 bits)

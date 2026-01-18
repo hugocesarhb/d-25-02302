@@ -1,0 +1,927 @@
+BLASTP 2.2.17 [Aug-26-2007]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics:
+Schaffer, Alejandro A., L. Aravind, Thomas L. Madden,
+Sergei Shavirin, John L. Spouge, Yuri I. Wolf,  
+Eugene V. Koonin, and Stephen F. Altschul (2001), 
+"Improving the accuracy of PSI-BLAST protein database searches with 
+composition-based statistics and other refinements",  Nucleic Acids Res. 29:2994-3005.
+
+Query= OAS1
+         (8 letters)
+
+Database: All non-redundant GenBank CDS
+translations+PDB+SwissProt+PIR+PRF excluding environmental samples
+from WGS projects 
+           229,636,095 sequences; 83,676,080,993 total letters
+
+Searching..................................................done
+
+
+
+ ***** No hits found ******
+
+Searching..................................................done
+
+
+
+ ***** No hits found ******
+
+  Database: All non-redundant GenBank CDS
+  translations+PDB+SwissProt+PIR+PRF excluding environmental samples
+  from WGS projects
+    Posted date:  Dec 11, 2019  7:07 PM
+  Number of letters in database: 83,676,080,993
+  Number of sequences in database:  229,636,095
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.0
+  1
+    Posted date:  Dec 11, 2019  7:07 PM
+  Number of letters in database: 297,471,522
+  Number of sequences in database:  901,301
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.0
+  2
+    Posted date:  Dec 11, 2019  7:07 PM
+  Number of letters in database: 157,344,503
+  Number of sequences in database:  484,834
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.0
+  3
+    Posted date:  Dec 11, 2019  7:07 PM
+  Number of letters in database: 220,458,354
+  Number of sequences in database:  690,139
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.0
+  4
+    Posted date:  Dec 11, 2019  7:07 PM
+  Number of letters in database: 463,723,837
+  Number of sequences in database:  1,351,397
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.0
+  5
+    Posted date:  Dec 11, 2019  7:07 PM
+  Number of letters in database: 376,508,334
+  Number of sequences in database:  1,135,096
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.0
+  6
+    Posted date:  Dec 11, 2019  7:07 PM
+  Number of letters in database: 418,070,801
+  Number of sequences in database:  1,293,068
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.0
+  7
+    Posted date:  Dec 11, 2019  7:07 PM
+  Number of letters in database: 331,036,038
+  Number of sequences in database:  987,832
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.0
+  8
+    Posted date:  Dec 11, 2019  7:07 PM
+  Number of letters in database: 24,625,826
+  Number of sequences in database:  74,439
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.0
+  9
+    Posted date:  Dec 11, 2019  7:07 PM
+  Number of letters in database: 933,699,825
+  Number of sequences in database:  2,701,693
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  00
+    Posted date:  Dec 11, 2019  7:07 PM
+  Number of letters in database: 46,261,906
+  Number of sequences in database:  136,649
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  01
+    Posted date:  Dec 11, 2019  7:08 PM
+  Number of letters in database: 728,310,038
+  Number of sequences in database:  1,896,548
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  02
+    Posted date:  Dec 11, 2019  7:08 PM
+  Number of letters in database: 290,644,309
+  Number of sequences in database:  715,934
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  03
+    Posted date:  Dec 11, 2019  7:07 PM
+  Number of letters in database: 411,305,506
+  Number of sequences in database:  1,177,957
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  04
+    Posted date:  Dec 11, 2019  7:07 PM
+  Number of letters in database: 989,483,121
+  Number of sequences in database:  2,660,272
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  05
+    Posted date:  Dec 11, 2019  7:07 PM
+  Number of letters in database: 988,921,463
+  Number of sequences in database:  2,830,614
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  06
+    Posted date:  Dec 11, 2019  7:07 PM
+  Number of letters in database: 991,555,272
+  Number of sequences in database:  2,604,809
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  07
+    Posted date:  Dec 11, 2019  7:07 PM
+  Number of letters in database: 995,552,976
+  Number of sequences in database:  2,623,956
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  08
+    Posted date:  Dec 11, 2019  7:07 PM
+  Number of letters in database: 992,225,519
+  Number of sequences in database:  2,838,621
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  09
+    Posted date:  Dec 11, 2019  7:07 PM
+  Number of letters in database: 972,702,207
+  Number of sequences in database:  2,787,596
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  0
+    Posted date:  Dec 11, 2019  7:07 PM
+  Number of letters in database: 834,629,919
+  Number of sequences in database:  2,267,288
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  10
+    Posted date:  Dec 11, 2019  7:07 PM
+  Number of letters in database: 994,003,025
+  Number of sequences in database:  2,642,721
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  11
+    Posted date:  Dec 11, 2019  7:08 PM
+  Number of letters in database: 982,416,825
+  Number of sequences in database:  2,785,710
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  12
+    Posted date:  Dec 11, 2019  7:08 PM
+  Number of letters in database: 962,955,704
+  Number of sequences in database:  2,817,716
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  13
+    Posted date:  Dec 11, 2019  7:08 PM
+  Number of letters in database: 977,808,451
+  Number of sequences in database:  2,800,108
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  14
+    Posted date:  Dec 11, 2019  7:08 PM
+  Number of letters in database: 990,384,859
+  Number of sequences in database:  2,760,960
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  15
+    Posted date:  Dec 11, 2019  7:08 PM
+  Number of letters in database: 14,020,666
+  Number of sequences in database:  32,524
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  16
+    Posted date:  Dec 11, 2019  7:08 PM
+  Number of letters in database: 422,074,759
+  Number of sequences in database:  1,234,666
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  17
+    Posted date:  Dec 11, 2019  7:08 PM
+  Number of letters in database: 428,289,497
+  Number of sequences in database:  1,077,196
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  18
+    Posted date:  Dec 11, 2019  7:08 PM
+  Number of letters in database: 231,016,062
+  Number of sequences in database:  545,511
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  19
+    Posted date:  Dec 11, 2019  7:08 PM
+  Number of letters in database: 734,909,678
+  Number of sequences in database:  2,062,748
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  1
+    Posted date:  Dec 11, 2019  7:08 PM
+  Number of letters in database: 771,243,220
+  Number of sequences in database:  2,312,191
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  20
+    Posted date:  Dec 11, 2019  7:08 PM
+  Number of letters in database: 409,578,314
+  Number of sequences in database:  1,166,209
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  21
+    Posted date:  Dec 11, 2019  7:09 PM
+  Number of letters in database: 530,464,532
+  Number of sequences in database:  1,331,678
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  22
+    Posted date:  Dec 11, 2019  7:09 PM
+  Number of letters in database: 816,310,297
+  Number of sequences in database:  2,462,368
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  23
+    Posted date:  Dec 11, 2019  7:09 PM
+  Number of letters in database: 39,961,424
+  Number of sequences in database:  116,002
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  24
+    Posted date:  Dec 11, 2019  7:09 PM
+  Number of letters in database: 1,485,450
+  Number of sequences in database:  4668
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  25
+    Posted date:  Dec 11, 2019  7:09 PM
+  Number of letters in database: 1,524,987
+  Number of sequences in database:  4735
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  26
+    Posted date:  Dec 11, 2019  7:09 PM
+  Number of letters in database: 104,463,004
+  Number of sequences in database:  293,368
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  27
+    Posted date:  Dec 11, 2019  7:09 PM
+  Number of letters in database: 3,306,013
+  Number of sequences in database:  10,229
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  28
+    Posted date:  Dec 11, 2019  7:09 PM
+  Number of letters in database: 436,368,974
+  Number of sequences in database:  1,213,787
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  29
+    Posted date:  Dec 11, 2019  7:09 PM
+  Number of letters in database: 995,127,269
+  Number of sequences in database:  2,801,305
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  2
+    Posted date:  Dec 11, 2019  7:12 PM
+  Number of letters in database: 844,326,598
+  Number of sequences in database:  2,373,198
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  30
+    Posted date:  Dec 11, 2019  7:33 PM
+  Number of letters in database: 974,248,317
+  Number of sequences in database:  2,536,492
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  31
+    Posted date:  Dec 11, 2019  7:23 PM
+  Number of letters in database: 996,223,258
+  Number of sequences in database:  2,748,601
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  32
+    Posted date:  Dec 11, 2019  7:12 PM
+  Number of letters in database: 947,871,178
+  Number of sequences in database:  2,683,880
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  33
+    Posted date:  Dec 11, 2019  7:22 PM
+  Number of letters in database: 976,783,618
+  Number of sequences in database:  2,628,079
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  34
+    Posted date:  Dec 11, 2019  7:14 PM
+  Number of letters in database: 938,570,192
+  Number of sequences in database:  2,532,448
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  35
+    Posted date:  Dec 11, 2019  7:11 PM
+  Number of letters in database: 458,426,124
+  Number of sequences in database:  1,168,494
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  36
+    Posted date:  Dec 11, 2019  7:28 PM
+  Number of letters in database: 166,593,800
+  Number of sequences in database:  436,392
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  37
+    Posted date:  Dec 11, 2019  7:10 PM
+  Number of letters in database: 187,548,185
+  Number of sequences in database:  479,231
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  38
+    Posted date:  Dec 11, 2019  7:33 PM
+  Number of letters in database: 667,657,067
+  Number of sequences in database:  1,998,609
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  39
+    Posted date:  Dec 11, 2019  7:27 PM
+  Number of letters in database: 168,408,559
+  Number of sequences in database:  418,369
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  3
+    Posted date:  Dec 11, 2019  7:16 PM
+  Number of letters in database: 776,130,244
+  Number of sequences in database:  2,060,077
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  40
+    Posted date:  Dec 11, 2019  7:12 PM
+  Number of letters in database: 989,173,970
+  Number of sequences in database:  2,572,781
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  41
+    Posted date:  Dec 11, 2019  7:33 PM
+  Number of letters in database: 970,944,918
+  Number of sequences in database:  2,622,235
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  42
+    Posted date:  Dec 11, 2019  7:39 PM
+  Number of letters in database: 266,183,174
+  Number of sequences in database:  741,423
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  4
+    Posted date:  Dec 11, 2019  7:11 PM
+  Number of letters in database: 739,035,547
+  Number of sequences in database:  2,003,346
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  5
+    Posted date:  Dec 11, 2019  7:21 PM
+  Number of letters in database: 30,735,089
+  Number of sequences in database:  80,370
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  6
+    Posted date:  Dec 11, 2019  7:14 PM
+  Number of letters in database: 563,014,166
+  Number of sequences in database:  1,444,026
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  7
+    Posted date:  Dec 11, 2019  7:26 PM
+  Number of letters in database: 95,193,774
+  Number of sequences in database:  216,262
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  8
+    Posted date:  Dec 11, 2019  7:28 PM
+  Number of letters in database: 1,449,533
+  Number of sequences in database:  4533
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.1
+  9
+    Posted date:  Dec 11, 2019  7:31 PM
+  Number of letters in database: 37,011,260
+  Number of sequences in database:  111,319
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.2
+  0
+    Posted date:  Dec 11, 2019  7:16 PM
+  Number of letters in database: 275,523,701
+  Number of sequences in database:  759,653
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.2
+  1
+    Posted date:  Dec 11, 2019  7:27 PM
+  Number of letters in database: 315,354,879
+  Number of sequences in database:  932,420
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.2
+  2
+    Posted date:  Dec 11, 2019  7:16 PM
+  Number of letters in database: 773,072,009
+  Number of sequences in database:  2,233,404
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.2
+  3
+    Posted date:  Dec 11, 2019  7:12 PM
+  Number of letters in database: 769,796,193
+  Number of sequences in database:  2,185,003
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.2
+  4
+    Posted date:  Dec 11, 2019  7:24 PM
+  Number of letters in database: 769,911,348
+  Number of sequences in database:  2,152,411
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.2
+  5
+    Posted date:  Dec 11, 2019  7:39 PM
+  Number of letters in database: 873,080,311
+  Number of sequences in database:  2,227,185
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.2
+  6
+    Posted date:  Dec 11, 2019  7:13 PM
+  Number of letters in database: 832,117,699
+  Number of sequences in database:  2,075,451
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.2
+  7
+    Posted date:  Dec 11, 2019  7:22 PM
+  Number of letters in database: 678,267,707
+  Number of sequences in database:  1,835,671
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.2
+  8
+    Posted date:  Dec 11, 2019  7:16 PM
+  Number of letters in database: 655,379,635
+  Number of sequences in database:  1,836,792
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.2
+  9
+    Posted date:  Dec 11, 2019  7:26 PM
+  Number of letters in database: 637,044,492
+  Number of sequences in database:  1,892,575
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.3
+  0
+    Posted date:  Dec 11, 2019  7:30 PM
+  Number of letters in database: 753,751,124
+  Number of sequences in database:  1,925,109
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.3
+  1
+    Posted date:  Dec 11, 2019  7:15 PM
+  Number of letters in database: 827,566,984
+  Number of sequences in database:  2,180,025
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.3
+  2
+    Posted date:  Dec 11, 2019  7:33 PM
+  Number of letters in database: 850,099,532
+  Number of sequences in database:  2,274,616
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.3
+  3
+    Posted date:  Dec 11, 2019  7:34 PM
+  Number of letters in database: 425,051,924
+  Number of sequences in database:  1,150,293
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.3
+  4
+    Posted date:  Dec 11, 2019  7:23 PM
+  Number of letters in database: 27,866,164
+  Number of sequences in database:  87,127
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.3
+  5
+    Posted date:  Dec 11, 2019  7:32 PM
+  Number of letters in database: 152,494,764
+  Number of sequences in database:  397,867
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.3
+  6
+    Posted date:  Dec 11, 2019  7:28 PM
+  Number of letters in database: 37,240,450
+  Number of sequences in database:  112,350
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.3
+  7
+    Posted date:  Dec 11, 2019  7:34 PM
+  Number of letters in database: 795,543,216
+  Number of sequences in database:  2,125,103
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.3
+  8
+    Posted date:  Dec 11, 2019  7:13 PM
+  Number of letters in database: 746,112,218
+  Number of sequences in database:  1,999,074
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.3
+  9
+    Posted date:  Dec 11, 2019  7:22 PM
+  Number of letters in database: 897,263,521
+  Number of sequences in database:  2,404,411
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.4
+  0
+    Posted date:  Dec 11, 2019  7:25 PM
+  Number of letters in database: 829,653,939
+  Number of sequences in database:  2,383,651
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.4
+  1
+    Posted date:  Dec 11, 2019  7:26 PM
+  Number of letters in database: 721,922,450
+  Number of sequences in database:  1,804,848
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.4
+  2
+    Posted date:  Dec 11, 2019  7:30 PM
+  Number of letters in database: 592,483,049
+  Number of sequences in database:  1,444,817
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.4
+  3
+    Posted date:  Dec 11, 2019  7:15 PM
+  Number of letters in database: 73,885,065
+  Number of sequences in database:  231,704
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.4
+  4
+    Posted date:  Dec 11, 2019  7:33 PM
+  Number of letters in database: 672,612,140
+  Number of sequences in database:  1,764,092
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.4
+  5
+    Posted date:  Dec 11, 2019  7:36 PM
+  Number of letters in database: 418,355,213
+  Number of sequences in database:  1,119,341
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.4
+  6
+    Posted date:  Dec 11, 2019  7:23 PM
+  Number of letters in database: 81,537,617
+  Number of sequences in database:  237,096
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.4
+  7
+    Posted date:  Dec 11, 2019  7:32 PM
+  Number of letters in database: 927,961,763
+  Number of sequences in database:  2,354,841
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.4
+  8
+    Posted date:  Dec 11, 2019  7:24 PM
+  Number of letters in database: 965,624,050
+  Number of sequences in database:  2,485,049
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.4
+  9
+    Posted date:  Dec 11, 2019  7:34 PM
+  Number of letters in database: 321,307,716
+  Number of sequences in database:  836,294
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.5
+  0
+    Posted date:  Dec 11, 2019  7:21 PM
+  Number of letters in database: 1,423,529
+  Number of sequences in database:  4514
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.5
+  1
+    Posted date:  Dec 11, 2019  7:22 PM
+  Number of letters in database: 1,867,879
+  Number of sequences in database:  5966
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.5
+  2
+    Posted date:  Dec 11, 2019  7:16 PM
+  Number of letters in database: 936,862,654
+  Number of sequences in database:  2,199,756
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.5
+  3
+    Posted date:  Dec 11, 2019  7:26 PM
+  Number of letters in database: 924,403,957
+  Number of sequences in database:  2,393,101
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.5
+  4
+    Posted date:  Dec 11, 2019  7:30 PM
+  Number of letters in database: 838,998,425
+  Number of sequences in database:  2,304,442
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.5
+  5
+    Posted date:  Dec 11, 2019  7:26 PM
+  Number of letters in database: 927,996,202
+  Number of sequences in database:  2,415,848
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.5
+  6
+    Posted date:  Dec 11, 2019  7:33 PM
+  Number of letters in database: 975,272,697
+  Number of sequences in database:  3,001,912
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.5
+  7
+    Posted date:  Dec 11, 2019  7:36 PM
+  Number of letters in database: 973,994,182
+  Number of sequences in database:  2,841,538
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.5
+  8
+    Posted date:  Dec 11, 2019  7:29 PM
+  Number of letters in database: 945,705,637
+  Number of sequences in database:  2,725,225
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.5
+  9
+    Posted date:  Dec 11, 2019  7:33 PM
+  Number of letters in database: 949,486,756
+  Number of sequences in database:  2,597,358
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.6
+  0
+    Posted date:  Dec 11, 2019  7:36 PM
+  Number of letters in database: 825,833,444
+  Number of sequences in database:  2,234,818
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.6
+  1
+    Posted date:  Dec 11, 2019  7:34 PM
+  Number of letters in database: 630,060,612
+  Number of sequences in database:  1,669,414
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.6
+  2
+    Posted date:  Dec 11, 2019  7:21 PM
+  Number of letters in database: 21,429,883
+  Number of sequences in database:  63,441
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.6
+  3
+    Posted date:  Dec 11, 2019  7:17 PM
+  Number of letters in database: 864,783,955
+  Number of sequences in database:  2,380,251
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.6
+  4
+    Posted date:  Dec 11, 2019  7:25 PM
+  Number of letters in database: 780,187,923
+  Number of sequences in database:  2,098,451
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.6
+  5
+    Posted date:  Dec 11, 2019  7:27 PM
+  Number of letters in database: 912,003,060
+  Number of sequences in database:  2,533,251
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.6
+  6
+    Posted date:  Dec 11, 2019  7:15 PM
+  Number of letters in database: 931,775,772
+  Number of sequences in database:  2,554,935
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.6
+  7
+    Posted date:  Dec 11, 2019  7:26 PM
+  Number of letters in database: 901,665,801
+  Number of sequences in database:  2,403,228
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.6
+  8
+    Posted date:  Dec 11, 2019  7:25 PM
+  Number of letters in database: 381,639,562
+  Number of sequences in database:  1,042,020
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.6
+  9
+    Posted date:  Dec 11, 2019  7:24 PM
+  Number of letters in database: 167,617,497
+  Number of sequences in database:  474,430
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.7
+  0
+    Posted date:  Dec 11, 2019  7:36 PM
+  Number of letters in database: 591,904,781
+  Number of sequences in database:  1,746,030
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.7
+  1
+    Posted date:  Dec 11, 2019  7:33 PM
+  Number of letters in database: 964,832,762
+  Number of sequences in database:  2,452,466
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.7
+  2
+    Posted date:  Dec 11, 2019  7:36 PM
+  Number of letters in database: 956,872,494
+  Number of sequences in database:  2,698,386
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.7
+  3
+    Posted date:  Dec 11, 2019  7:27 PM
+  Number of letters in database: 966,267,809
+  Number of sequences in database:  2,559,019
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.7
+  4
+    Posted date:  Dec 11, 2019  7:22 PM
+  Number of letters in database: 185,233,852
+  Number of sequences in database:  550,936
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.7
+  5
+    Posted date:  Dec 11, 2019  7:18 PM
+  Number of letters in database: 341,181,442
+  Number of sequences in database:  895,629
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.7
+  6
+    Posted date:  Dec 11, 2019  7:25 PM
+  Number of letters in database: 982,962,974
+  Number of sequences in database:  2,705,555
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.7
+  7
+    Posted date:  Dec 11, 2019  7:27 PM
+  Number of letters in database: 994,207,805
+  Number of sequences in database:  2,879,898
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.7
+  8
+    Posted date:  Dec 11, 2019  7:30 PM
+  Number of letters in database: 972,609,087
+  Number of sequences in database:  2,640,632
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.7
+  9
+    Posted date:  Dec 11, 2019  7:26 PM
+  Number of letters in database: 976,861,198
+  Number of sequences in database:  2,623,421
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.8
+  0
+    Posted date:  Dec 11, 2019  7:35 PM
+  Number of letters in database: 7,686,813
+  Number of sequences in database:  21,790
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.8
+  1
+    Posted date:  Dec 11, 2019  7:16 PM
+  Number of letters in database: 16,532,200
+  Number of sequences in database:  42,189
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.8
+  2
+    Posted date:  Dec 11, 2019  7:23 PM
+  Number of letters in database: 957,976,346
+  Number of sequences in database:  2,524,840
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.8
+  3
+    Posted date:  Dec 11, 2019  7:36 PM
+  Number of letters in database: 982,318,420
+  Number of sequences in database:  2,648,434
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.8
+  4
+    Posted date:  Dec 11, 2019  7:37 PM
+  Number of letters in database: 475,827,016
+  Number of sequences in database:  1,334,797
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.8
+  5
+    Posted date:  Dec 11, 2019  7:26 PM
+  Number of letters in database: 965,389
+  Number of sequences in database:  3076
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.8
+  6
+    Posted date:  Dec 11, 2019  7:22 PM
+  Number of letters in database: 992,424,357
+  Number of sequences in database:  2,672,483
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.8
+  7
+    Posted date:  Dec 11, 2019  7:18 PM
+  Number of letters in database: 983,079,299
+  Number of sequences in database:  2,657,377
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.8
+  8
+    Posted date:  Dec 11, 2019  7:25 PM
+  Number of letters in database: 992,117,000
+  Number of sequences in database:  3,063,838
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.8
+  9
+    Posted date:  Dec 11, 2019  7:27 PM
+  Number of letters in database: 990,078,931
+  Number of sequences in database:  2,733,164
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.9
+  0
+    Posted date:  Dec 11, 2019  7:31 PM
+  Number of letters in database: 258,256,112
+  Number of sequences in database:  761,195
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.9
+  1
+    Posted date:  Dec 11, 2019  7:32 PM
+  Number of letters in database: 482,461,881
+  Number of sequences in database:  1,225,099
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.9
+  2
+    Posted date:  Dec 11, 2019  7:35 PM
+  Number of letters in database: 545,754,190
+  Number of sequences in database:  1,634,323
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.9
+  3
+    Posted date:  Dec 11, 2019  7:29 PM
+  Number of letters in database: 574,004,465
+  Number of sequences in database:  1,610,964
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.9
+  4
+    Posted date:  Dec 11, 2019  7:23 PM
+  Number of letters in database: 495,086,270
+  Number of sequences in database:  1,375,096
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.9
+  5
+    Posted date:  Dec 11, 2019  7:33 PM
+  Number of letters in database: 341,588,346
+  Number of sequences in database:  1,041,127
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.9
+  6
+    Posted date:  Dec 11, 2019  7:37 PM
+  Number of letters in database: 139,367,724
+  Number of sequences in database:  373,261
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.9
+  7
+    Posted date:  Dec 11, 2019  7:27 PM
+  Number of letters in database: 507,212,429
+  Number of sequences in database:  1,437,532
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.9
+  8
+    Posted date:  Dec 11, 2019  7:21 PM
+  Number of letters in database: 43,038,612
+  Number of sequences in database:  113,987
+  
+  Database: /home/sysadmin/rosetta/tools/fragment_tools/databases/nr.9
+  9
+    Posted date:  Dec 11, 2019  7:22 PM
+  Number of letters in database: 257,291,133
+  Number of sequences in database:  716,293
+  
+Lambda     K      H
+   0.284   0.0876    0.183 
+
+Lambda     K      H
+   0.267   0.0291    0.140 
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Hits to DB: 470,348,683
+Number of Sequences: 229636095
+Number of extensions: 224456
+Number of successful extensions: 0
+Number of sequences better than 9.0e-04: 0
+Number of HSP's better than  0.0 without gapping: 0
+Number of HSP's successfully gapped in prelim test: 0
+Number of HSP's that attempted gapping in prelim test: 0
+Number of HSP's gapped (non-prelim): 0
+length of query: 8
+length of database: 83,676,080,993
+effective HSP length: 0
+effective length of query: 8
+effective length of database: 83,676,080,993
+effective search space: 669408647944
+effective search space used: 669408647944
+T: 11
+A: 40
+X1: 15 ( 6.2 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 45 (22.0 bits)
+S2: 116 (49.8 bits)

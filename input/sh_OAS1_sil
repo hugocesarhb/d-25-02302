@@ -1,0 +1,11 @@
+#!/bin/bash 
+#SBATCH --ntasks=1600
+#SBATCH --nodes=20
+#SBATCH --time=0-12:00
+
+cd $SLURM_SUBMIT_DIR
+
+module load CCEnv arch/avx512 StdEnv/2020
+module load nixpkgs/16.09 gcc/7.3.0 openmpi/3.1.4 mpi4py/3.0.3 rosetta/2019.21.60746
+
+srun FlexPepDocking.mpi.linuxgccrelease @abinitio_flags
